@@ -1,7 +1,7 @@
 # GFusion
 
 ⚠️ **Temporary Access Notice**  
-This repository contains the implementation code for the paper "[Paper Title]". To comply with double-blind peer review requirements, the code will remain private until the paper is officially accepted. 
+This repository contains the implementation code for the paper "GFusion:Global Geometry Aware Dual projection fusion for 360 depth estimation". To comply with double-blind peer review requirements, the code will remain private until the paper is officially accepted. 
 
 **Expected Release Timeline**  
 🔓 Full code disclosure within paper acceptance (Target: Q3 2025)  
