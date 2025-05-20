@@ -9,7 +9,7 @@ This repository contains the implementation code for the paper "[Paper Title]". 
 🛡️ **Verification Access for Reviewers**  
 Peer reviewers may request temporary access through:  
 1. The journal's submission system (encrypted code package provided as supplementary material)  
-2. Official editor-mediated access via: 📧 corresponding.author@institution.edu  
+2. Official editor-mediated access via: 📧 ie_garry_ma@gs.zzu.edu.cn
 
 📜 **Usage Terms During Review**  
 • Strictly prohibited from code redistribution or citation  
